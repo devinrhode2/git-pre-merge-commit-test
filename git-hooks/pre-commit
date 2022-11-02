@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# This is a base case, scientific control.
+# pre-commit is one of the oldest hooks,
+# So if this doesn't work, core.hooksPath probably isn't configured correctly.
+echo "pre-commit hook"
